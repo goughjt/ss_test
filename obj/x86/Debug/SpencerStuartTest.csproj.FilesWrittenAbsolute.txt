@@ -1,0 +1,6 @@
+/Users/helpfulRabbit/Projects/SpencerStuartTest/SpencerStuartTest/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/helpfulRabbit/Projects/SpencerStuartTest/SpencerStuartTest/bin/Debug/nunit.framework.dll
+/Users/helpfulRabbit/Projects/SpencerStuartTest/SpencerStuartTest/bin/Debug/SpencerStuartTest.exe.mdb
+/Users/helpfulRabbit/Projects/SpencerStuartTest/SpencerStuartTest/bin/Debug/SpencerStuartTest.exe
+/Users/helpfulRabbit/Projects/SpencerStuartTest/SpencerStuartTest/obj/x86/Debug/SpencerStuartTest.exe
+/Users/helpfulRabbit/Projects/SpencerStuartTest/SpencerStuartTest/obj/x86/Debug/SpencerStuartTest.exe.mdb
